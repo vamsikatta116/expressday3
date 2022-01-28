@@ -1,0 +1,19 @@
+{
+  "name": "day-3-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dynamic.js",
+  "scripts": {
+    "nodemon": "nodemon dynamic.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "hbs": "^4.2.0",
+    "jade": "^1.11.0"
+  }
+}
